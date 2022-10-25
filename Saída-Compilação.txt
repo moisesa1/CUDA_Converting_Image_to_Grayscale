@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: CUDA_Converting_Image_to_Grayscale, Configuração: Debug x64 ------
+1>C:\Users\moises\source\repos\moisesa1\CUDA_Converting_Image_to_Grayscale-master\CUDA_Converting_Image_to_Grayscale-master\CUDA_Converting_Image_to_Grayscale.vcxproj(33,5): error MSB4019: o projeto importado "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\CUDA 11.7.props" não foi localizado. Confirme se a expressão na declaração Import "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\\BuildCustomizations\CUDA 11.7.props" está correta e se o arquivo existe no disco.
+1>Projeto de compilação pronto "CUDA_Converting_Image_to_Grayscale.vcxproj" -- FALHA.
+========== Compilação: 0 bem-sucedida, 1 com falha, 0 atualizada, 0 ignorada ==========
